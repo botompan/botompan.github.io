@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://botompan.github.io/sitemap.html.gz
+Sitemap: https://botompan.github.io/app/sitemap.html.gz
+Sitemap: https://botompan.github.io/assets/sitemap.html.gz
+Sitemap: https://botompan.github.io/css/sitemap.html.gz
+Sitemap: https://botompan.github.io/includes/sitemap.html.gz
+Sitemap: https://botompan.github.io/item/sitemap.html.gz
+Sitemap: https://botompan.github.io/src/sitemap.html.gz
